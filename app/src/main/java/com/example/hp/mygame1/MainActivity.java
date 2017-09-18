@@ -84,6 +84,7 @@ public class MainActivity extends AppCompatActivity {
         super.onPause();
         Log.d(TAG,"onPause ismmmmmmm");
         Log.d(TAG,"onPausee is called");
+        Log.d(TAG,"onPausee is called");
     }
 
     @Override
